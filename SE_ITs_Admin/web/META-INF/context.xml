@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/SE_ITs_Admin">
+    <Resource 
+        name = "FunnyProject" type="javax.sql.DataSource" auth="Container"
+                driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+                url="jdbc:sqlserver://localhost:1433;databaseName=MiniProject;instanceName=DESKTOP-TKCVSTT\SQLEXPRESS"
+               username="sa" password="trung0933251079"
+    />
+</Context>
